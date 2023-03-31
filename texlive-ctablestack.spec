@@ -1,6 +1,6 @@
 Name:		texlive-ctablestack
 Version:	38514
-Release:	1
+Release:	2
 Summary:	Catcode table stable support
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ctablestack
