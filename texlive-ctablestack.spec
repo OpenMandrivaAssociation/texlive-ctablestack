@@ -3,7 +3,7 @@ Version:	38514
 Release:	2
 Summary:	Catcode table stable support
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ctablestack
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/ctablestack
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/ctablestack.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/ctablestack.doc.r%{version}.tar.xz
